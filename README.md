@@ -1,6 +1,6 @@
 # Active::Ghost
 
-TODO: Write a gem description
+GEM IN SEED - looking for developers/UX to help.
 
 ## Installation
 
